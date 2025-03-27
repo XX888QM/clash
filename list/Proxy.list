@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 DOMAIN-SUFFIX,zifanr.net
+DOMAIN-SUFFIX,net.三友环保.网络/zh-CN/user/account?uuid=36a9758d-489a-4431-8f83-432006f41840&hmac=de76d0b4137c27ca00bffb25cf8d4ecbcc8bde9243ba5545c2a9106b6ec89973
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
